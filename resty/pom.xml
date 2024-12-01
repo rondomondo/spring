@@ -20,6 +20,7 @@
 	</properties>
 
 	<modules>
+		<module>hello</module>
 		<module>nonrest</module>
 		<module>rest</module>
 		<module>evolution</module>
