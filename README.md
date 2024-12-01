@@ -1,2 +1,2 @@
 # macbank-spring
-Springboot stuff for MacBank
+Springboot stuff for basic setup
